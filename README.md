@@ -6,336 +6,360 @@
 
 ### `AI/ML • Deep Learning • Computer Vision • Robotics • Software Engineering`
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=2400&pause=700&color=7C3AED&center=true&vCenter=true&width=850&lines=scrolling+through+my+digital+lab...;AI+is+not+just+a+model.;build+%E2%86%92+break+%E2%86%92+debug+%E2%86%92+ship.;C%2B%2B+%7C+Python+%7C+PyTorch+%7C+ROS+%7C+CUDA" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+AI+systems+that+actually+run.;Deep+Learning+%7C+Computer+Vision+%7C+Robotics;C%2B%2B+%7C+Python+%7C+PyTorch+%7C+ROS+%7C+CUDA;Researching%2C+building%2C+debugging%2C+shipping.;Turning+ideas+into+working+systems." />
 
 <br/>
 
-<a href="#-about-me">ABOUT</a> ·
-<a href="#-stack">STACK</a> ·
-<a href="#-projects">PROJECTS</a> ·
-<a href="#-research">RESEARCH</a> ·
-<a href="#-connect">CONNECT</a>
+<a href="https://github.com/P-R-A-N-E-S-H">
+<img src="https://img.shields.io/badge/GitHub-P--R--A--N--E--S--H-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://www.linkedin.com/in/pranesh01">
+<img src="https://img.shields.io/badge/LinkedIn-Pranesh%20M-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="https://github.com/P-R-A-N-E-S-H?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-38BDF8?style=for-the-badge&logo=github"/>
+</a>
 
 </div>
 
 ---
 
-<div align="center">
+## 🧑‍💻 About Me
 
-## `01 / ENTER THE LAB`
+I'm **Pranesh M**, a **B.Tech Artificial Intelligence student at Amrita Vishwa Vidyapeetham, Coimbatore**, passionate about building practical solutions with AI and emerging technologies.
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   PRANESH.M                                                   ║
-║   ─────────                                                   ║
-║   AI / ML DEVELOPER                                           ║
-║                                                              ║
-║   building systems • experimenting with models               ║
-║   breaking bugs • learning every day                          ║
-║                                                              ║
-║                     ↓ SCROLL ↓                               ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+My interests span **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Robotics, Agentic AI, and Software Engineering**.
 
-</div>
+I enjoy going beyond tutorials by designing, implementing, testing, debugging, and improving real projects.
 
----
+I work primarily with **C++, Python, PyTorch, OpenCV, ROS, CUDA, JavaScript, and web technologies**, while continuously strengthening my foundations in **Data Structures & Algorithms, system design, and problem solving**.
 
-# 🪩 ABOUT ME
+I've worked on projects involving **deep learning architectures, robotic navigation, sparse portfolio optimization, IoT systems, AI platforms, and intelligent automation**.
 
-> **B.Tech Artificial Intelligence student @ Amrita Vishwa Vidyapeetham, Coimbatore.**
-
-I'm **Pranesh M**, interested in turning ideas into working technology.
-
-My playground is a mix of:
+My goal is to become a strong **AI/ML engineer and software developer** who can take an idea from **research → implementation → deployment**.
 
 ```text
-        🤖 AI
-         │
-    ┌────┼────┐
-    ↓    ↓    ↓
-   ML    CV   DL
-    │    │    │
-    └────┼────┘
-         ↓
-      ROBOTICS
-         ↓
-   SOFTWARE SYSTEMS
-```
-
-I enjoy learning by building — from deep-learning experiments and computer-vision systems to robotics, optimization, IoT and AI platforms.
-
-### current mindset
-
-```text
-not:
-"what project should I copy?"
-
-but:
-"what can I understand deeply enough to build?"
+Learn → Build → Experiment → Debug → Improve → Ship 🚀
 ```
 
 ---
 
-# 🧊 02 / STACK
-
-<div align="center">
-
-### `LANGUAGES`
-
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js" />
-
-### `AI / ML`
-
-<img src="https://skillicons.dev/icons?i=pytorch,opencv,numpy,pandas" />
-
-### `WEB / BACKEND`
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,php" />
-
-### `SYSTEMS / ROBOTICS`
-
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,aws" />
-
-</div>
-
----
-
-# 🧬 03 / MY DIGITAL LAB
+## ⚡ Quick Profile
 
 ```text
-                    ┌─────────────────┐
-                    │    PRANESH.M    │
-                    └────────┬────────┘
-                             │
-           ┌─────────────────┼─────────────────┐
-           ↓                 ↓                 ↓
-       INTELLIGENCE       VISION            SYSTEMS
-           │                 │                 │
-       ┌───┴───┐         ┌───┴───┐        ┌────┴────┐
-       │       │         │       │        │         │
-      ML      DL        CV      OpenCV   ROS      IoT
-       │       │         │       │        │         │
-       └───┬───┘         └───┬───┘        └────┬────┘
-           └─────────────────┼─────────────────┘
-                             ↓
-                     WORKING SYSTEMS
+┌─────────────────────────────────────────────────────────────┐
+│                     SYSTEM PROFILE                          │
+├─────────────────────────────────────────────────────────────┤
+│ Name        : Pranesh M                                     │
+│ Degree      : B.Tech Artificial Intelligence                │
+│ University  : Amrita Vishwa Vidyapeetham                    │
+│ Location    : Coimbatore, India                             │
+│ Current     : 3rd Year                                      │
+│ Focus       : AI / ML / Software Engineering                │
+│ Languages   : C++ / Python / C / JavaScript                 │
+│ Interests   : AI / CV / DL / Robotics / Agentic AI         │
+│ Philosophy  : Build systems, not just demos                 │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# 🚀 04 / PROJECTS
+# 🧠 Tech Stack
 
-## 🧠 Deep Learning Without Convolutions
+### Programming
 
-**Deep Learning · PyTorch · CIFAR-10 · Research**
+<p>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-Exploring **Deep Convolutional Tables (DCT)** and alternative approaches to image classification.
+### AI / Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
+
+### Web / Development
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</p>
+
+### Robotics / Systems
+
+<p>
+<img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gazebo-FF8C00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+### Databases / Cloud / Tools
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+# 🚀 Featured Work
+
+## 🔬 Deep Learning Without Convolutions
+
+**Deep Learning • Research • PyTorch**
+
+Research and implementation work around **Deep Convolutional Tables (DCT)**, exploring image classification without conventional convolutional layers.
 
 ```text
-DATA
- ↓
-MODEL DESIGN
- ↓
-TRAIN
- ↓
-BENCHMARK
- ↓
-ANALYZE
- ↓
-IMPROVE
+Dataset       : CIFAR-10
+Framework     : PyTorch
+Domain        : Deep Learning
+Focus         : Alternative Neural Network Architectures
 ```
 
-Focus:
+Work includes:
 
-`FCNN` · `CNN` · `DCT` · `PyTorch` · `CIFAR-10`
+- FCNN vs CNN vs CT comparison
+- CIFAR-10 experimentation
+- Model training and evaluation
+- Architecture analysis
+- Accuracy benchmarking
+- Research-oriented experimentation
 
 ---
 
 ## 🐟 Vision-Based Robotic Fish Navigation
 
-**Computer Vision · Robotics · IMU · ROS · Gazebo**
+**Computer Vision • Robotics • IMU • Navigation**
 
-A vision and sensor-based approach for robotic-fish steering and navigation.
+A vision and sensor-based navigation system for robotic fish steering.
 
 ```text
-CAMERA
-   ↓
-VISION
-   ↓
-OBSTACLE DETECTION
-   ↓
-TRACKING
-   ↓
-IMU
-   ↓
-STEERING
+Vision
+  ↓
+Obstacle Detection
+  ↓
+Tracking
+  ↓
+IMU Information
+  ↓
+Navigation / Steering
 ```
+
+Technologies:
+
+`Python` `OpenCV` `ROS` `Gazebo` `IMU` `Computer Vision`
 
 ---
 
 ## 🧮 Sparse Portfolio Optimization
 
-**Optimization · ADMM · Numerical Computing**
+**Optimization • ADMM • Finance**
 
-Working with short-term sparse portfolio optimization using **ADMM**.
+Implementation and experimentation around **short-term sparse portfolio optimization using ADMM**.
 
 ```text
-MARKET DATA
+Market Data
      ↓
-OPTIMIZATION
+Optimization Model
      ↓
-   ADMM
+ADMM
      ↓
-SPARSE PORTFOLIO
+Sparse Portfolio
      ↓
-ANALYSIS
+Risk / Return Analysis
 ```
+
+Focus areas:
+
+- Convex optimization
+- ADMM
+- Sparse optimization
+- Portfolio construction
+- Numerical methods
 
 ---
 
 ## 🤖 AI PlacementOS
 
-**Agentic AI · LLMs · Career Intelligence**
+**Agentic AI • Career Intelligence**
 
-A multi-agent AI platform concept for intelligent placement and career workflows.
+A multi-agent platform concept designed around AI-assisted career and placement workflows.
 
 ```text
-             ┌───────────────┐
-             │ AI PlacementOS│
-             └───────┬───────┘
-                     ↓
-       ┌─────────────┼─────────────┐
-       ↓             ↓             ↓
-    RESUME         SKILLS         JOBS
-     AGENT          AGENT         AGENT
-       └─────────────┼─────────────┘
-                     ↓
-              CAREER INTELLIGENCE
+                 ┌──────────────────┐
+                 │   AI PlacementOS  │
+                 └────────┬─────────┘
+                          │
+        ┌─────────────────┼─────────────────┐
+        ↓                 ↓                 ↓
+   Resume Agent      Skill Agent       Job Agent
+        │                 │                 │
+        └─────────────────┼─────────────────┘
+                          ↓
+                  Career Intelligence
 ```
+
+Focus:
+
+`Agentic AI` `LLMs` `Automation` `Resume Intelligence` `Career Analytics`
 
 ---
 
 ## 🏪 DigiMandi
 
-**MSME · Marketplace · Offline-First**
+**AI • Marketplace • MSME**
 
-An offline-first marketplace concept focused on MSME digital commerce.
+An offline-first marketplace concept for MSMEs, focused on accessible digital commerce and intelligent workflows.
 
 ---
 
 ## 🌡️ IoT Temperature Controlled Fan
 
-**ESP8266 · Arduino · IoT Cloud**
+**IoT • Embedded Systems**
 
-Temperature-aware fan automation using embedded and IoT technologies.
+Temperature-based automatic fan control using:
 
----
-
-# 🔬 05 / RESEARCH MODE
-
-```text
-┌──────────────────────────────────────────────┐
-│              RESEARCH QUEUE                  │
-├──────────────────────────────────────────────┤
-│ 01  Deep Learning                             │
-│ 02  Computer Vision                           │
-│ 03  AI Systems                                │
-│ 04  Robotics                                  │
-│ 05  Agentic AI                                │
-│ 06  Optimization                              │
-│ 07  Intelligent Automation                    │
-│ 08  Embedded AI / IoT                         │
-└──────────────────────────────────────────────┘
-```
-
-### research philosophy
-
-```text
-paper
-  ↓
-question
-  ↓
-experiment
-  ↓
-result
-  ↓
-failure
-  ↓
-understanding
-```
-
-**Failures are data.**
+`ESP8266` `Arduino` `Arduino IoT Cloud`
 
 ---
 
-# 🧩 06 / DSA ARC
+## ⚡ Regenerative Braking System
+
+**EV • IoT • Python**
+
+A regenerative braking system concept combining:
+
+`Python` `Blynk IoT` `EV Systems`
+
+---
+
+# 🔬 Research Interests
 
 ```text
-                 DSA
-                  │
-        ┌─────────┼─────────┐
-        ↓         ↓         ↓
-      ARRAYS     TREES     GRAPHS
-        │         │         │
-        ↓         ↓         ↓
-    RECURSION    BFS/DFS   PATHS
-        │         │         │
-        └─────────┼─────────┘
-                  ↓
-             ALGORITHMS
-                  ↓
-             OPTIMIZATION
+┌─────────────────────────────────────────────────────┐
+│                 RESEARCH INTERESTS                  │
+├─────────────────────────────────────────────────────┤
+│ • Deep Learning                                     │
+│ • Computer Vision                                   │
+│ • Artificial Intelligence                           │
+│ • Robotics                                           │
+│ • Optimization                                      │
+│ • Agentic AI                                        │
+│ • AI Systems                                        │
+│ • Intelligent Automation                            │
+│ • Embedded AI / IoT                                 │
+└─────────────────────────────────────────────────────┘
+```
+
+---
+
+# 💻 Currently Learning & Building
+
+```bash
+pranesh@dev-machine:~$ cat current_focus.txt
+```
+
+```text
+[01] Data Structures & Algorithms
+[02] C++ Problem Solving
+[03] Machine Learning
+[04] Deep Learning
+[05] Computer Vision
+[06] Robotics / ROS
+[07] Full-Stack Development
+[08] Cloud & Deployment
+[09] System Design
+[10] Production-ready AI Projects
+```
+
+---
+
+# 🧩 Problem Solving
+
+```text
+                    PROBLEM SOLVING
+                          │
+             ┌────────────┼────────────┐
+             ↓            ↓            ↓
+          Arrays        Trees        Graphs
+             │            │            │
+             ↓            ↓            ↓
+         Recursion      BFS/DFS      Shortest Path
+             │            │            │
+             └────────────┼────────────┘
+                          ↓
+                     Algorithms
+                          ↓
+                     Optimization
 ```
 
 Current focus:
 
-`C++` · `DSA` · `Recursion` · `Trees` · `Graphs` · `Dynamic Programming`
+`DSA` `Recursion` `Trees` `Graphs` `Dynamic Programming` `Algorithms`
 
 ---
 
-# ⚙️ 07 / BUILD PIPELINE
-
-<div align="center">
+# 🛠️ Engineering Philosophy
 
 ```text
-      💡 IDEA
-        │
-        ▼
-    🔎 RESEARCH
-        │
-        ▼
-    🧱 DESIGN
-        │
-        ▼
-    💻 BUILD
-        │
-        ▼
-    🧪 TEST
-        │
-        ▼
-    🐛 DEBUG
-        │
-        ▼
-    📊 BENCHMARK
-        │
-        ▼
-    🚀 SHIP
+I don't want to only make projects that run.
+
+I want to understand:
+
+    WHY it works
+    HOW it works
+    WHEN it fails
+    HOW to measure it
+    HOW to improve it
+    HOW to deploy it
 ```
 
-</div>
+### My workflow
+
+```text
+IDEA
+ ↓
+RESEARCH
+ ↓
+DESIGN
+ ↓
+IMPLEMENT
+ ↓
+TEST
+ ↓
+DEBUG
+ ↓
+BENCHMARK
+ ↓
+DEPLOY
+ ↓
+DOCUMENT
+```
 
 ---
 
-# 📊 08 / GITHUB
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=P-R-A-N-E-S-H&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=P-R-A-N-E-S-H&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-R-A-N-E-S-H&layout=compact&theme=tokyonight&hide_border=true" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-R-A-N-E-S-H&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 <br/><br/>
 
@@ -345,65 +369,52 @@ Current focus:
 
 ---
 
-# 🧃 09 / GEN-Z TERMINAL
-
-```text
-pranesh@dev-machine ~ % npm run life
-
-> life@3.0.0 start
-> build_future
-
-loading skills................. ██████████ 100%
-loading curiosity.............. ██████████ 100%
-loading coffee................. ██████████ 100%
-loading bugs................... ██████████ 100%
-
-✓ C++ loaded
-✓ Python loaded
-✓ AI/ML loaded
-✓ Computer Vision loaded
-✓ Robotics loaded
-✓ DSA loading...
-
-WARNING:
-too many ideas detected.
-
-STATUS:
-still building. ⚡
-```
-
----
-
-# 🌐 10 / CONNECT
+# 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/P-R-A-N-E-S-H">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-P--R--A--N--E--S--H-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/pranesh01">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Pranesh%20M-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
-
-<br/><br/>
-
-### `Let's build something interesting.`
 
 </div>
 
 ---
 
-<div align="center">
+# ⚡ Terminal
 
 ```text
-╭────────────────────────────────────────────╮
-│                                            │
-│       BUILD  •  BREAK  •  LEARN  •  SHIP  │
-│                                            │
-╰────────────────────────────────────────────╯
+$ sudo apt install motivation
+
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+
+motivation is already the newest version.
+
+$ python3 build_future.py
+
+[████████████████████████████████████████] 100%
+
+BUILD SUCCESSFUL 🚀
 ```
 
-<img src="https://komarev.com/ghpvc/?username=P-R-A-N-E-S-H&style=for-the-badge&label=VISITORS"/>
+---
+
+<div align="center">
+
+### `BUILD. BREAK. LEARN. REPEAT.`
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=P-R-A-N-E-S-H&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:111827,100:0f172a&height=120&section=footer"/>
 
 </div>
